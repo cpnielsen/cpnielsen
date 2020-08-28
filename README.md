@@ -1,6 +1,6 @@
 # cpnielsen 🙋‍♂️
 
-Hi there! My name is Christian Palmhøj Nielsen and I work at [Famly](https://famly.co) as a Lead Developer focusing on the financial aspects of the product - purchases, invoices, payments and more.
+Hi there! My name is Christian Palmhøj Nielsen and I work at [Famly](https://famly.co) as a Lead Developer focusing on the financial aspects of the product - purchases, booking patterns, invoices, payments and more.
 
 As part of my job and my spare time I also tinker with database and data processing in general, building infrastructure with kubernetes and trying to
 constantly re-engineer things to be easier to maintain and more performant (in the best way, I promise!)
